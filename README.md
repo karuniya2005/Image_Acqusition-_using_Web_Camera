@@ -31,7 +31,7 @@ If the user presses **'q'**, then break the loop.
 ## Program:
 ``` Python
 ### Developed By:Karuniya M
-### Register No:21222324..68
+### Register No:212223240068
 
 ## i) Write the frame as JPG file
 import cv2
