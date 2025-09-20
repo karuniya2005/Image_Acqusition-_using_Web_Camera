@@ -28,10 +28,10 @@ If the user presses **'q'**, then break the loop.
 
 **Step 6:** Release the camera using `cap.release()` and close all windows with `cv2.destroyAllWindows()`.  
 
-## Program:
-``` Python
-### Developed By:Karuniya M
-### Register No:212223240068
+## Program Developed By:
+### Name: Karuniya M
+### Register Number:212223240068
+```
 
 ## i) Write the frame as JPG file
 import cv2
